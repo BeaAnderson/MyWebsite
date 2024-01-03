@@ -5,3 +5,8 @@
 .two {
     border-bottom: 3px solid darkgray;
 }
+
+.content {
+    width: 90%;
+    margin: auto;
+}

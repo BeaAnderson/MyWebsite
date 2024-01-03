@@ -8,7 +8,12 @@ h2 {
 }
 
 body {
-    background-color: grey;
+    background-color: rgb(133, 133, 133);
+}
+
+div {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; text-align: center;
 }
 
 .container {
@@ -25,8 +30,6 @@ body {
     text-align: center;
     margin: auto;
 }
-
-
 
 .two {
     grid-column: 4;
