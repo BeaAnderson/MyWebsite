@@ -1,0 +1,47 @@
+
+h1 {
+    font-family: 'Courier New', Courier, monospace; text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace; text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.one {
+    grid-column: 3;
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+.two {
+    grid-column: 4;
+    width: 100%;
+    background-color: darkgray;
+    text-align: center;
+    margin: auto;
+}
+
+.two .p {
+    color: antiquewhite;
+}
+
+.para {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
