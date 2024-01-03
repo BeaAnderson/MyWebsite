@@ -1,19 +1,10 @@
 
-h1 {
-    font-family: 'Courier New', Courier, monospace; text-align: center;
-}
-
-h2 {
+* {
     font-family: 'Courier New', Courier, monospace; text-align: center;
 }
 
 body {
     background-color: rgb(133, 133, 133);
-}
-
-div {
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace; text-align: center;
 }
 
 .container {
