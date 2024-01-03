@@ -36,12 +36,11 @@ body {
     margin: auto;
 }
 
-.two .p {
-    color: antiquewhite;
-}
-
 .para {
     color: white;
-    text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: none;
 }
