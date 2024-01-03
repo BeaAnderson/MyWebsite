@@ -45,3 +45,12 @@
 .two {
     border-bottom: 3px solid;
 }
+
+@media only screen and (max-width: 840px){
+    .container1 .box{
+        flex-direction: column;
+    }
+    .container1 .box .dream{
+        width: 100%;
+    }
+}
